@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "02-folder",
+=======
+  "name": "01-folder",
+>>>>>>> e7ac5feec5aa2a894bf2f4e6d3da92cef55fc83e
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "lucide-react": "^1.22.0",
+=======
+>>>>>>> e7ac5feec5aa2a894bf2f4e6d3da92cef55fc83e
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
